@@ -1,8 +1,8 @@
 ---
 layout: media
-title: "Another Media Post with Large Feature Image"
+title: "Estudio de la evolución del SARS-CoV-2 en España"
 categories: media
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: "Análisis exploratorio de datos científicos desde el 01/01/2020 hasta el 09/03/2021 obtenidos del Instituto Carlos III"
 ads: true
 share: false
 image:
@@ -13,13 +13,18 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-This is a sample media post with a large feature image up top and tons of text. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+Quería realizar un estudio 100% científico de la evolución del SARS-CoV-2 en España debido al antes y después que hemos experimentado y que estamos experimentando en todo el mundo en mayor o menor medida a causa del SARS-CoV-2.
 
-## Thundercats Ho!
+Los datasets que he usado para tal fin los he obtenido de la página web del Instituto Carlos III y, al hacerlo, ví que no tenía datos de la población, por lo que tuve que recopilarlos de la página del INE.
 
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
+Me he limitado a analizar la evolución de la pandemia y el grado de afectación al sector de la población por sexo, grupo de edad, sexo-grupo de edad en España desde el 01/01/2020 hasta el 09/03/2021. Quería analizar un poco más en profundidad y he bajado hasta el nivel de CCAA para poder determinar qué CCAA han sufrido más esta pandemia desde el inicio hasta el 09/03/2021 con indicadores propios de enfermedad (índice de letalidad e índice de mortalidad) y propios de esta pandemia (incidencia acumulada a 7 y 14 días).
 
-## Tools Used
+## Proceso realizado
+
+* Recopilación de información de las páginas web indicadas anteriormente
+* Análisis de datos: La mayoría de los datos de los que disponía eran cuantitativos por lo que he realizado operaciones de agrupación, conteo, sumatorio. 
+
+## Herramientas utilizadas
 
 Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
 
