@@ -6,7 +6,7 @@ excerpt: "Análisis exploratorio de datos científicos desde el 01/01/2020 hasta
 ads: true
 share: false
 image:
-  feature: covid.jpg
+  teaser: covid.png
 ---
 
 Quería realizar un estudio 100% científico de la evolución del SARS-CoV-2 en España debido al antes y después que hemos experimentado y que estamos experimentando en todo el mundo en mayor o menor medida a causa del SARS-CoV-2.
