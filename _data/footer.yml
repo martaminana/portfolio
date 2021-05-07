@@ -1,6 +1,6 @@
 # Footer navigation links
 
-- title: Página principal
+- title: Home
   url: /
 
 - title: GitHub
@@ -9,5 +9,5 @@
 - title: Linkedin
   url: https://www.linkedin.com/in/sonia-dosio-revenga-17812245 
 
-- title: Acerca de mí
+- title: About
   url: /about/
