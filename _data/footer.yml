@@ -1,13 +1,10 @@
 # Footer navigation links
 
-- title: Home
+- title: Página principal
   url: /
 
-- title: Getting Started
+- title: GitHub
   url: /getting-started/
 
-- title: About
+- title: Acerca de mí
   url: /about/
-
-- title: Terms
-  url: /terms/
