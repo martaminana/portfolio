@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Sample Media Gallery"
-date: 2014-05-30T11:40:45-04:00
+title: "Porfolio"
+date: 2021-05-07T11:40:45-04:00
 modified:
-excerpt: "An archive of media posts, perfect for portfolios and galleries."
+excerpt: "Aquí se muestran todos los proyectos realizados."
 tags: []
 image:
   feature:
