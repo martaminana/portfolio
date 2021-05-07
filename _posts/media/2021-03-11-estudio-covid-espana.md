@@ -6,6 +6,7 @@ excerpt: "Análisis exploratorio de datos científicos desde el 01/01/2020 hasta
 ads: true
 share: false
 image:
+  feature: covid.png
   teaser: covid.png
 ---
 
