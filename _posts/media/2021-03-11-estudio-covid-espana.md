@@ -7,7 +7,6 @@ ads: true
 share: false
 image:
   feature: covid.jpg
-  teaser: covid-400x250.jpg 
 ---
 
 Quería realizar un estudio 100% científico de la evolución del SARS-CoV-2 en España debido al antes y después que hemos experimentado y que estamos experimentando en todo el mundo en mayor o menor medida a causa del SARS-CoV-2.
