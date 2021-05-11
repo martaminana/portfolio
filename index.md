@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: cool-nature-backgrounds.jpg
+  feature: cool-nature-backgrounds1.jpg
 ---
 
 <div class="tiles">
