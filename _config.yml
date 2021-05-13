@@ -27,9 +27,9 @@ plugins:
 # Site owner
 owner:
   name: "Sonia Dosio"
-  web: "https://mademistakes.com"
-  twitter: "mmistakes"
-  bio: "Just another boring, tattooed, time traveling designer."
+  web: 
+  twitter: 
+  bio: 
   avatar: "croatia1.jpg" # 160x160 px image for author byline
   google:
     plus: "+MichaelRoseDesign"
