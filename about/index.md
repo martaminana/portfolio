@@ -14,7 +14,7 @@ ads: false
 
 Soy Licenciada en Ciencias Químicas (Especialidad Química Fundamental Analítica) por la U.P.V / E.H.U. aunque mi trayectoria profesional, de casi 20 años, la he desarrollado en empresas de Consultoría TI trabajando como Analista Programador COBOL/SQL/JCL.
 
-Actualmente he decidido dar un giro en mi trayectoria profesional y formarme en el campo de Data Science, campo que me apasiona.
+Actualmente he decidido dar un giro en mi trayectoria profesional unificando mi mente científica, analítica y curiosa con mi larga experiencia analizando y tratando cantidades ingentes de datos por lo que he decidido formarme en el campo de Data Science, campo que me apasiona.
 
 
 
