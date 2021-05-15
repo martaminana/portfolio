@@ -23,8 +23,8 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title">William Edwards Deming</h2>
+  <p class="post-excerpt">"It is not enough to do your best; you must know what to do, and then do your best".</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
