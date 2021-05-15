@@ -16,7 +16,7 @@ Soy Licenciada en Ciencias Químicas (Especialidad Química Fundamental Analíti
 
 Actualmente he decidido dar un giro en mi trayectoria profesional aprovechando que poseo una mente científica, analítica y curiosa la cual se complementa con mi dilatada experiencia analizando y tratando cantidades ingentes de datos por lo que me he formado en el campo de Data Science, campo que me apasiona.
 
-En mis ratos libres mis otras pasiones son: el trail, el trekking, el rafting, la fotografía, escuchar música y bailar.
+En mis ratos libres, mis otras pasiones son: el trail, el trekking, el rafting, la fotografía, la música y bailar.
 
 Conóceme por [Linkedin](https://www.linkedin.com/in/sonia-dosio-revenga-17812245) o por [mail](mailto:sondr62@gmail.com).
 
