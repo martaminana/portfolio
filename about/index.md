@@ -18,7 +18,7 @@ Actualmente he decidido dar un giro en mi trayectoria profesional aprovechando q
 
 En mis ratos libres mis otras pasiones son: el trail, el trekking, el rafting, la fotografía, escuchar música y bailar.
 
-Conóceme por [Linkedin] https://www.linkedin.com/in/sonia-dosio-revenga-17812245  o por mail sondr62@gmail.com.
+Conóceme por [Linkedin](https://www.linkedin.com/in/sonia-dosio-revenga-17812245) o por mail sondr62@gmail.com.
 
 
 
