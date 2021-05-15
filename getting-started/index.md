@@ -19,10 +19,11 @@ En esta página encontrarás información sobre todos los proyectos en los que t
 
 Los proyectos están escritos en Python (Jupyter Notebook/PyCharm/Google Colab). 
 
-Te invito a que entres y veas todos ellos y quién sabe:
+Te invito a que explores todos ellos y te sientas completamente libre para preguntarme lo que quieras.
 
+Y entonces... ¿quién sabe? ...
 
 #### ¿Quizás sea la persona de Data Scientist que andas buscando?
 
 
-Puedes localizarme en [Linkedin](https://www.linkedin.com/in/sonia-dosio-revenga-17812245/)
+Puedes localizarme en [![Linkedin: Sonia Dosio](https://img.shields.io/badge/-soniadosio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soniadosio/)](https://www.linkedin.com/in/sonia-dosio-revenga-17812245/) o por mail [![Gmail Badge](https://img.shields.io/badge/-sondr62@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sondr62@gmail.com)](mailto:sondr62@gmail.com).
