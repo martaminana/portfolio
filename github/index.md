@@ -12,4 +12,4 @@ share: false
 ads: false
 ---
 
-Para ver el código de los proyectos acceda a mi [GitHub](https://github.com/sonimik13) 
+Para ver el código de los proyectos accede a mi [GitHub](https://github.com/sonimik13) 
