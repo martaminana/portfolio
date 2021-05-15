@@ -8,18 +8,18 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 3</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">William Edwards Deming</h2>
+  <p class="post-excerpt">"Without data, you're just another person with an opinion".</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">William Edwards Deming</h2>
+  <p class="post-excerpt">"In god we trust, all others must bring data".</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Mark Twain</h2>
+  <p class="post-excerpt">"There are lies, damned lies and statistics".</p>
 </div><!-- /.tile -->
 
 <div class="tile">
