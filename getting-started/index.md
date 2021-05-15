@@ -21,7 +21,7 @@ Los proyectos están escritos en Python (Jupyter Notebook/PyCharm/Google Colab).
 
 Te invito a que explores todos ellos y te sientas completamente libre para preguntarme lo que quieras.
 
-Y entonces... quién sabe ...
+Y entonces... quién sabe...
 
 
 
