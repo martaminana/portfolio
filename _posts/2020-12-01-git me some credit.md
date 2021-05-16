@@ -12,13 +12,13 @@ Los bancos juegan un papel crucial en las economías de mercado. Ellos deciden q
 
 Los algoritmos de calificación crediticia, que adivinan la probabilidad de incumplimiento, son el método que utilizan los bancos para determinar si se debe otorgar o no un préstamo. Esta competencia requiere que los participantes mejoren el estado del arte en la calificación crediticia, al predecir la probabilidad de que alguien experimente dificultades financieras en los próximos dos años.
 
-El objetivo de esta competención era crear un modelo que los prestatarios puedan utilizar para ayudar a tomar las mejores decisiones financieras.
+El objetivo de esta competención era crear un modelo que los prestatarios pudieran utilizar para ayudar a tomar las mejores decisiones financieras.
 
-Para lo cual, tras realizar previamente un análisis exploratorio de datos, informando las columnas que tenían algún dato sin valor con su media aritmética y representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features con el target:
+Tras realizar previamente un análisis exploratorio de datos, informando las columnas que tenían algún dato sin valor con su media aritmética y representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features con el target:
 
 ![image](https://github.com/sonimik13/portfolio/blob/gh-pages/images/matriz-750.jpg)
 
 
-Una vez probados varios modelo, el modelo que mejor predicciones daba era el modelo de clasificación de regresión logística binaria con un AUC (área bajo la curva) de 0.73. 
+Una vez probados varios modelos, el modelo que mejor predicciones daba era el modelo de clasificación de regresión logística binaria con un AUC (área bajo la curva) de 0.73. 
 
 Todas las gráficas y el código del proyecto se pueden ver accediendo a este [repositorio](https://github.com/sonimik13/give-me-some-credit).
