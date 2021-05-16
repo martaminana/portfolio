@@ -20,3 +20,5 @@ Para lo cual, tras realizar previamente un análisis exploratorio de datos, repr
 
 
 el modelo que mejor predicciones daba era el modelo de clasificación de regresión logística binaria con un AUC de 0.73. 
+
+Todas las gráficas y el código del proyecto se pueden ver accediendo a este repositorio.
