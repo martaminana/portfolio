@@ -24,9 +24,7 @@ eliminar caracteres especiales (@, #,\,...) y eliminar las stop words o palabras
 
 Un siguiente paso común en el preprocesamiento de texto es normalizar las palabras de su corpus tratando de convertir todas las diferentes formas de una palabra dada en una sola. Dos métodos que existen para esto son Stemming y Lemmatization.
 
-En este caso se ha usado el método Lemmatization que consiste en transformar la palabra en su verdadera raíz y mediante la búsqueda de la mejor combinación de hiperparámetros posible usando   
-la transformación TF-IDF (que es la representación del número de veces que una palabra determinada aparece en un documento en relación con el número de documentos en el corpus en el que aparece la palabra
-donde las palabras que aparecen en muchos documentos tienen un valor más cercano a cero y las palabras que aparecen en menos documentos tienen valores más cercanos a 1) y el algoritmo de SVM, se ha
+En este caso se ha usado el método Lemmatization que consiste en transformar la palabra en su verdadera raíz y mediante la búsqueda de la mejor combinación de hiperparámetros posible usando la transformación TF-IDF (que es la representación del número de veces que una palabra determinada aparece en un documento en relación con el número de documentos en el corpus en el que aparece la palabra donde las palabras que aparecen en muchos documentos tienen un valor más cercano a cero y las palabras que aparecen en menos documentos tienen valores más cercanos a 1) y el algoritmo de SVM, se ha
 conseguido un valor de AUC (área bajo al curva) de 0.72.
 
 Todas las gráficas y el código del proyecto se pueden ver accediendo a este [repositorio](https://github.com/sonimik13/NLP-en-la-red-social-Twitter).
