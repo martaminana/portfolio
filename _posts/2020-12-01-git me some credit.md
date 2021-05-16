@@ -2,7 +2,7 @@
 layout: article
 title: "Git me some credit"
 categories: portfolio
-excerpt: "Competición de kaggle para predecir si en los próximos 2 años una persona puede pagar un crédito o no"
+excerpt: "Competición grupal de kaggle para predecir si en los próximos 2 años una persona puede pagar un crédito o no"
 share: false
 image:
   teaser: money-400x250.jpg
