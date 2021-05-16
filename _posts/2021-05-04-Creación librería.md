@@ -12,5 +12,7 @@ La idea surgió debido a que hoy en día la automatización de procesos usando f
 
 Pusimos en común todos los proyectos realizados por cada uno de los componentes de clase y mirando el código de cada uno de ellos se consiguió crear una serie de funciones de limpieza de datos y visualización que pudieran ser prácticas en el uso diario de un Data Scientist.
 
+Con todas estas funciones, se creó un paquete y se subió a PyPI para que el código pueda ser reutilizado por cualquier persona simplemente realizando un `pip install pythoneer`.
+
 Todo el código del proyecto se puede ver accediendo a este [repositorio](https://github.com/sonimik13/give-me-some-credit).
 
