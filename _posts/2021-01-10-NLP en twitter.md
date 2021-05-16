@@ -8,7 +8,7 @@ image:
   teaser: twitter-400x250.jpg
 ---
 
-A partir de una serie de tweets se ha creado un modelo de predicción para clasificar si el tweet estaba hablando de un desastre o no.
+A partir de una serie de tweets se tenía que crear un modelo de predicción para clasificar si el tweet estaba hablando de un desastre o no.
 
 Nuestro dataset tenía 4 features más la target.
 
