@@ -14,9 +14,13 @@ ads: false
 
 Soy Licenciada en Ciencias Químicas (Especialidad Química Fundamental Analítica) por la U.P.V / E.H.U., aunque mi trayectoria profesional de casi 20 años, la he desarrollado en empresas de Consultoría TI trabajando como Analista Programador COBOL/SQL/JCL.
 
-Actualmente he decidido dar un giro en mi trayectoria profesional aprovechando que poseo una mente científica, analítica y curiosa la cual se complementa con mi dilatada experiencia analizando y tratando cantidades ingentes de datos por lo que me he formado en el campo de Data Science, campo que me apasiona.
+Tengo amplia experiencia en el trato diario con clientes, habilidades comunicativas y he sido responsable de un grupo de personas a las que daba trabajo. Asimismo, he sido la única responsable de un ANS durante 6 años realizando un soporte de 24x7, solucionando las cancelaciones de procesos y mejorando la calidad de los mismos. 
 
-En mis ratos libres, mis otras pasiones son: el trail, el trekking, el rafting, la fotografía, la música y bailar.
+Actualmente he decidido dar un giro en mi trayectoria profesional aprovechando que poseo una mente científica, analítica, creativa y curiosa la cual se complementa con mi dilatada experiencia analizando y tratando cantidades ingentes de datos por lo que me he formado en el campo de Data Science, campo que me apasiona.
+
+Otras cualidades que me definen son que me encantan los retos, aprender y trabajar en equipo y además soy una persona que me adapto fácilmente a cualquier situación.
+
+En cuanto a otras de mis pasiones, que tienen que ver con los ratos libres, serían: el trail, el trekking, el rafting, la fotografía, la música y bailar.
 
 Conóceme por [Linkedin](https://www.linkedin.com/in/sonia-dosio-revenga-17812245) o por [mail](mailto:sondr62@gmail.com).
 
