@@ -14,4 +14,4 @@ Los algoritmos de calificación crediticia, que adivinan la probabilidad de incu
 
 El objetivo de esta competencia es crear un modelo que los prestatarios puedan utilizar para ayudar a tomar las mejores decisiones financieras.
 
-Para lo cual, tras realizar previamente un análisis exploratorio de datos, representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features con el target, el modelo que mejor predicciones daba era el modelo de clasificación de de regresión logística binaria con un AUC de 0.73 
+Para lo cual, tras realizar previamente un análisis exploratorio de datos, representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features con el target, el modelo que mejor predicciones daba era el modelo de clasificación de regresión logística binaria con un AUC de 0.73 
