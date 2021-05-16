@@ -12,7 +12,7 @@ Los bancos juegan un papel crucial en las economías de mercado. Ellos deciden q
 
 Los algoritmos de calificación crediticia, que adivinan la probabilidad de incumplimiento, son el método que utilizan los bancos para determinar si se debe otorgar o no un préstamo. Esta competencia requiere que los participantes mejoren el estado del arte en la calificación crediticia, al predecir la probabilidad de que alguien experimente dificultades financieras en los próximos dos años.
 
-El objetivo de esta competención es crear un modelo que los prestatarios puedan utilizar para ayudar a tomar las mejores decisiones financieras.
+El objetivo de esta competención era crear un modelo que los prestatarios puedan utilizar para ayudar a tomar las mejores decisiones financieras.
 
 Para lo cual, tras realizar previamente un análisis exploratorio de datos, informando las columnas que tenían algún dato sin valor con su media aritmética y representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features con el target:
 
