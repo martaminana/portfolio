@@ -10,7 +10,7 @@ image:
 
 A partir de una serie de tweets se ha creado un modelo de predicción para clasificar si el tweet estaba hablando de un desastre o no.
 
-Nuestros datos van a tener 4 columnas o features más la target.
+Nuestro dataset tenía 4 features más la target.
 
 - id: identificador del tweet 
 - keyword: palabra clave del tweet 
