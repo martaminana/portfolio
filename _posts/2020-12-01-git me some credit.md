@@ -14,11 +14,11 @@ Los algoritmos de calificación crediticia, que adivinan la probabilidad de incu
 
 El objetivo de esta competención es crear un modelo que los prestatarios puedan utilizar para ayudar a tomar las mejores decisiones financieras.
 
-Para lo cual, tras realizar previamente un análisis exploratorio de datos, representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features con el target
+Para lo cual, tras realizar previamente un análisis exploratorio de datos, informando las columnas que tenían algún dato sin valor con su media aritmética y representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features con el target:
 
 ![image](https://github.com/sonimik13/portfolio/blob/gh-pages/images/matriz-750.jpg)
 
 
-el modelo que mejor predicciones daba era el modelo de clasificación de regresión logística binaria con un AUC (área bajo la curva) de 0.73. 
+Una vez probados varios modelo, el modelo que mejor predicciones daba era el modelo de clasificación de regresión logística binaria con un AUC (área bajo la curva) de 0.73. 
 
 Todas las gráficas y el código del proyecto se pueden ver accediendo a este [repositorio](https://github.com/sonimik13/give-me-some-credit).
