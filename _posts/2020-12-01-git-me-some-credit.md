@@ -5,7 +5,7 @@ categories: portfolio
 excerpt: "Competición de kaggle para predecir si en los próximos 2 años una persona pueda pagar un crédito o no"
 share: false
 image:
-  teaser: neumonía.jpg
+  teaser: money-400x250.jpg
 ---
 
 Los bancos juegan un papel crucial en las economías de mercado. Ellos deciden quién puede obtener financiamiento y en qué condiciones, y pueden tomar o deshacer decisiones de inversión. Para que los mercados y la sociedad funcionen, las personas y las empresas necesitan acceso al crédito.
