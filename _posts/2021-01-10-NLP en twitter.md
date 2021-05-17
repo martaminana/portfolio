@@ -8,9 +8,9 @@ image:
   teaser: twitter-400x250.jpg
 ---
 
-A partir de una serie de tweets se tenía que crear un modelo de predicción para clasificar si el tweet estaba hablando de un desastre o no. 
+A partir de una serie de tweets había que crear un modelo de predicción para clasificar si el tweet estaba hablando de un desastre o no. 
 
-Nuestro dataset tenía 4 features más la target.
+Nuestro dataset de entrenamiento constaba de la target (valor que teníamos que predecir con nuestro modelo) y las siguientes 4 features (características):
 
 - id: identificador del tweet 
 - keyword: palabra clave del tweet 
@@ -24,7 +24,7 @@ eliminar caracteres especiales (@, #,\,...) y eliminar las stop words o palabras
 
 Un siguiente paso común en el preprocesamiento de texto es normalizar las palabras de su corpus tratando de convertir todas las diferentes formas de una palabra dada en una sola. Dos métodos que existen para esto son Stemming y Lemmatization.
 
-En este caso se ha usado el método Lemmatization que consiste en transformar la palabra en su verdadera raíz y mediante la búsqueda de la mejor combinación de hiperparámetros posible usando la transformación TF-IDF (que es la representación del número de veces que una palabra determinada aparece en un documento en relación con el número de documentos en el corpus en el que aparece la palabra donde las palabras que aparecen en muchos documentos tienen un valor más cercano a cero y las palabras que aparecen en menos documentos tienen valores más cercanos a 1) y el algoritmo de SVM, consiguiendo un valor entrenamiento de AUC (área bajo la curva) de 0.72 y una predicción final de 0.83.
+En este caso se ha usado el método Lemmatization que consiste en transformar la palabra en su verdadera raíz y mediante la búsqueda de la mejor combinación de hiperparámetros posible usando la transformación TF-IDF (que es la representación del número de veces que una palabra determinada aparece en un documento en relación con el número de documentos en el corpus en el que aparece la palabra donde las palabras que aparecen en muchos documentos tienen un valor más cercano a cero y las palabras que aparecen en menos documentos tienen valores más cercanos a 1) y el algoritmo de SVM, consiguiendo un valor entrenamiento de AUC (área bajo la curva) de 0.72 y una predicción final con los datos de test de 0.83.
 
 Para ver toda la documentación facilitada en la competición se puede acceder a la página web de [kaggle](https://www.kaggle.com/c/the-bridge-nlp/overview).
 
