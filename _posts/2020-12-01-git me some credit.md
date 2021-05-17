@@ -16,8 +16,7 @@ El objetivo de esta competición era crear un modelo que los prestatarios pudier
 
 Tras realizar previamente un análisis exploratorio de datos, informando las columnas que tenían algún dato sin valor con su media aritmética y representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features (características) con el target(columna SeriousDlqin2yrs, valor que teníamos que predecir con nuestro modelo):
 
-![image](https://github.com/sonimik13/portfolio/blob/gh-pages/images/matriz-750.jpg)
-
+![image](/portfolio/images/matriz-750.jpg)
 
 Una vez probados varios modelos, el modelo que mejor valores daba en entrenamiento era el modelo de clasificación de regresión logística binaria, con un AUC (área bajo la curva) de 0.73 y una predicción final con los datos de test de 0.69.
 
