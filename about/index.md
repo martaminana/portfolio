@@ -18,9 +18,9 @@ Tengo amplia experiencia en el trato diario con clientes, habilidades comunicati
 
 Actualmente he decidido dar un giro en mi trayectoria profesional aprovechando que poseo una mente científica, analítica, creativa y curiosa la cual se complementa con mi dilatada experiencia analizando y tratando cantidades ingentes de datos por lo que me he formado en el campo de Data Science, campo que me apasiona.
 
-Otras cualidades que me definen son que me encantan los retos, aprender y trabajar en equipo y además soy una persona que me adapto fácilmente a cualquier situación.
+Los retos, aprender, trabajar en equipo y la adaptabilidad son otras cualidades que me definen.
 
-En cuanto a otras de mis pasiones, que tienen que ver con el tiempo libre, serían: el trail, el trekking, el rafting, la fotografía, la música y bailar.
+Y en mis ratos libres, las actividades que me apasionan serían el trail, el treking, el rafting, la fotografía, la música y bailar. 
 
 Conóceme por [Linkedin](https://www.linkedin.com/in/sonia-dosio-revenga-17812245) o por [mail](mailto:sondr62@gmail.com).
 
