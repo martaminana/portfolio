@@ -25,6 +25,6 @@ Y entonces... quién sabe...
 
 
 
-#### ¿Quizás sea la persona de Data Scientist que andas buscando?
+#### ¿Quizás sea la persona de Data Science que andas buscando?
 
 No lo dudes, contáctame por [Linkedin](https://www.linkedin.com/in/sonia-dosio-revenga-17812245) o por [mail](mailto:sondr62@gmail.com).
