@@ -2,7 +2,7 @@
 layout: article
 title: "Creación de librería Pythoneer en PyPI"
 categories: portfolio
-excerpt: "Proyecto grupal de estudiantes de Data Science - The Bridge (Digital talent accelerator)"
+excerpt: "Proyecto grupal de generación de librería con funciones útiles para Data Science"
 share: false
 image:
   teaser: librería-400x250.jpg
