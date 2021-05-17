@@ -17,7 +17,7 @@ Nuestro dataset de entrenamiento constaba de la target (valor que teníamos que 
 - location: localización del tweet 
 - text: el texto del tweet 
 
-Se han descartado los datos id, location y keyword para realizar la predicción del modelo ya que nuestro modelo lo que tenía que hacer es, en función de los datos contenidos en text, predecir si se estaba hablando de un desastre o no.
+Se descartaron los datos id, location y keyword para realizar la predicción del modelo ya que nuestro modelo lo que tenía que hacer es, en función de los datos contenidos en text, predecir si se estaba hablando de un desastre o no.
 
 Como pretratamiento se ha realizado una limpieza de datos en la columna text que ha consistido en lo siguiente: pasar todas las letras del texto a minúsculas,
 eliminar caracteres especiales (@, #,\,...) y eliminar las stop words o palabras vacías (artículos, preposiciones, sujetos,...)
