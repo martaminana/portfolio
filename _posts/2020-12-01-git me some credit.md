@@ -14,7 +14,7 @@ Los algoritmos de calificación crediticia, que adivinan la probabilidad de incu
 
 El objetivo de esta competición era crear un modelo que los prestatarios pudieran utilizar para ayudar a tomar las mejores decisiones financieras.
 
-Tras realizar previamente un análisis exploratorio de datos, informando las columnas que tenían algún dato sin valor con su media aritmética y representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features con el target:
+Tras realizar previamente un análisis exploratorio de datos, informando las columnas que tenían algún dato sin valor con su media aritmética y representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features (características) con el target(columna SeriousDlqin2yrs, valor que teníamos que predecir con nuestro modelo):
 
 ![image](https://github.com/sonimik13/portfolio/blob/gh-pages/images/matriz-750.jpg)
 
