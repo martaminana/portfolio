@@ -27,11 +27,6 @@ image:
   <p class="post-excerpt">"There are lies, damned lies and statistics".</p>
 </div><!-- /.tile -->
 
-<div class="tile">
-  <h2 class="post-title">William Edwards Deming</h2>
-  <p class="post-excerpt">"It is not enough to do your best; you must know what to do, and then do your best".</p>
-</div><!-- /.tile -->
-
 </div><!-- /.tiles -->
 
 
