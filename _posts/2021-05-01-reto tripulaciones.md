@@ -2,14 +2,13 @@
 layout: article
 title: "Reto de tripulaciones"
 categories: portfolio
-excerpt: "bla bla bla"
+excerpt: "Proyecto multidisciplinar UX/UI, Full Stack, Data Science y Ciberseguridad sobre coches eléctricos"
 share: false
 image:
   teaser: kaiku-400x250.jpg
 ---
 
+Proyecto grupal en el que se ha creado como producto final una APP donde un usuario pueda solicitar en cualquier punto de España que vengan a recargarle el coche eléctrico cuando se haya quedado sin carga.
 
-Dicho proyecto tiene visualizaciones gráficas utilizando las librerías `matplotlib`, `plotly` y también librerías propias de Machine Learning `sklearn`, `keras` y `tensorflow`.  
-Se ha usado la interfaz de `tensorboard` para visualizar el gráfico y otras herramientas para comprender, depurar y optimizar el modelo.
 
-Todo el código del proyecto se pueden ver accediendo a este [repositorio](https://github.com/sonimik13/give-me-some-credit).
+Todo el código del proyecto se pueden ver accediendo a este [repositorio](https://github.com/sonimik13/coches_electricos).
