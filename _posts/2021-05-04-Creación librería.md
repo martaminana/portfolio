@@ -2,7 +2,7 @@
 layout: article
 title: "Creación de librería Pythoneer en PyPI"
 categories: portfolio
-excerpt: "Proyecto grupal de generación de librería con funciones útiles para Data Science"
+excerpt: "Proyecto grupal de generación de librería de Python con funciones útiles para Data Science"
 share: false
 image:
   teaser: librería-400x250.jpg
