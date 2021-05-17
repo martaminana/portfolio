@@ -20,7 +20,7 @@ Actualmente he decidido dar un giro en mi trayectoria profesional aprovechando q
 
 Otras cualidades que me definen son que me encantan los retos, aprender y trabajar en equipo y además soy una persona que me adapto fácilmente a cualquier situación.
 
-En cuanto a otras de mis pasiones, que tienen que ver con los ratos libres, serían: el trail, el trekking, el rafting, la fotografía, la música y bailar.
+En cuanto a otras de mis pasiones, que tienen que ver con el tiempo libre, serían: el trail, el trekking, el rafting, la fotografía, la música y bailar.
 
 Conóceme por [Linkedin](https://www.linkedin.com/in/sonia-dosio-revenga-17812245) o por [mail](mailto:sondr62@gmail.com).
 
