@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Reto de tripulaciones"
+title: "Desafío de tripulaciones"
 categories: portfolio
 excerpt: "Proyecto multidisciplinar UX/UI, Full Stack, Data Science y Ciberseguridad sobre coches eléctricos"
 share: false
