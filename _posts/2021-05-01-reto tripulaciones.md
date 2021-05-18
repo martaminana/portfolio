@@ -12,7 +12,7 @@ Proyecto grupal en el que se ha desarrollado un producto digital para coches el�
 
 Según un estudio realizado por el club de automovilistas RACE del mercado de venta de coches eléctricos, en el año 2020 los híbridos enchufables crecieron un 213,82% triplicando sus ventas con 23.301 unidades frente a las 7.425 matriculaciones que se realizaron en el año 2019.
 
-En marzo de este año se han vendido un total de 2.025 unidades, lo que es un 174% más que en el año pasado.
+En marzo de este año se han vendido un total de 2.025 unidades, lo que es un 174% más que el año pasado.
 
 Hemos realizado una pequeña encuesta de mercado y se han obtenido los siguientes resultados:
 
