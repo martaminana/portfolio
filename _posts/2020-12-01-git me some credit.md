@@ -14,11 +14,11 @@ Los algoritmos de calificación crediticia, que adivinan la probabilidad de incu
 
 El objetivo de esta competición era crear un modelo que los prestatarios pudieran utilizar para ayudar a tomar las mejores decisiones financieras.
 
-Tras realizar previamente un análisis exploratorio de datos, informando las columnas que tenían algún dato sin valor con su media aritmética y representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features (características) con el target(columna SeriousDlqin2yrs, valor que teníamos que predecir con nuestro modelo):
+Tras realizar previamente un análisis exploratorio de datos, informando las columnas que tenían algún dato sin valor con su media aritmética y representando la siguiente matriz de correlación para ver cómo de relacionadas estaban nuestras features (características) con el target (columna SeriousDlqin2yrs, valor que teníamos que predecir con nuestro modelo):
 
 ![image](/portfolio/images/matriz-750.jpg)
 
-Una vez probados varios modelos, el modelo que mejor valores daba en entrenamiento era el modelo de clasificación de regresión logística binaria, con un AUC (área bajo la curva) de 0.73 y una predicción final con los datos de test de 0.69.
+Y una vez probados varios modelos, el modelo que mejor valores daba en entrenamiento era el modelo de clasificación de regresión logística binaria, con un AUC (área bajo la curva) de 0.73 y una predicción final con los datos de test de 0.69.
 
 Para ver toda la documentación facilitada en la competición se puede acceder a la página web de [kaggle](https://www.kaggle.com/c/give-me-some-credit-20210326).
 
