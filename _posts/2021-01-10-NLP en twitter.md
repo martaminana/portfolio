@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "NPL en la red social Twitter"
+title: "NLP en la red social Twitter"
 categories: portfolio
 excerpt: "Competición grupal de kaggle para predecir si un tweet está hablando de un desastre o no"
 share: false
@@ -24,7 +24,7 @@ eliminar caracteres especiales (@, #,\,...) y eliminar las stop words o palabras
 
 Un siguiente paso común en el preprocesamiento de texto es normalizar las palabras de su corpus tratando de convertir todas las diferentes formas de una palabra dada en una sola. Dos métodos que existen para esto son Stemming y Lemmatization.
 
-En este caso se ha usado el método Lemmatization que consiste en transformar la palabra en su verdadera raíz y mediante la búsqueda de la mejor combinación de hiperparámetros posible usando la transformación TF-IDF (que es la representación del número de veces que una palabra determinada aparece en un documento en relación con el número de documentos en el corpus en el que aparece la palabra donde las palabras que aparecen en muchos documentos tienen un valor más cercano a cero y las palabras que aparecen en menos documentos tienen valores más cercanos a 1) y el algoritmo de SVM, consiguiendo un valor de AUC (área bajo la curva) en entrenamiento de 0.72 y una predicción final con los datos de test de 0.83.
+En este caso se ha usado el método Lemmatization que consiste en transformar la palabra en su verdadera raíz y mediante la búsqueda de la mejor combinación de hiperparámetros posible usando la transformación TF-IDF (que es la representación del número de veces que una palabra determinada aparece en un documento en relación con el número de documentos en el corpus en el que aparece la palabra, donde las palabras que aparecen en muchos documentos tienen un valor más cercano a cero y las palabras que aparecen en menos documentos tienen valores más cercanos a 1) y el algoritmo de SVM, consiguiendo un valor de AUC (área bajo la curva) en entrenamiento de 0.72 y una predicción final con los datos de test de 0.83.
 
 Para ver toda la documentación facilitada en la competición se puede acceder a la página web de [kaggle](https://www.kaggle.com/c/the-bridge-nlp/overview).
 
