@@ -30,6 +30,4 @@ En esta aplicación el usuario introduce la dirección donde su vehículo va a e
 
 El video de presentación del proyecto que se presentó en directo desde el canal de YouTube se puede ver [aquí](https://www.youtube.com/watch?v=rdZCj-R7MPM&t=2916s). 
 
-Todo el código del proyecto se pueden ver accediendo a este [repositorio](https://github.com/sonimik13/coches_electricos).
-
-El video de presentación del proyecto que se presentó e directro en el canal de YouTube se puede ver aquí 
+Todo el código del proyecto se puede ver accediendo a este [repositorio](https://github.com/sonimik13/coches_electricos).
