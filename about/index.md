@@ -22,7 +22,7 @@ Los retos, aprender, trabajar en equipo y la adaptabilidad son otras cualidades 
 
 Y en mis ratos libres, las actividades que me apasionan son el trail, el trekking, el rafting, la fotografía, la música y bailar. 
 
-Si quieres saber más de mí, conóceme por [Linkedin](https://www.linkedin.com/in/sonia-dosio-revenga-17812245) o por [mail](mailto:sondr62@gmail.com).
+Si quieres saber más sobre mí, conóceme por [Linkedin](https://www.linkedin.com/in/sonia-dosio-revenga-17812245) o por [mail](mailto:sondr62@gmail.com).
 
 
 
