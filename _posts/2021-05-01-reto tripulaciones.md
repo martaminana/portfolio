@@ -28,6 +28,4 @@ Ante esta preocupación se realizó nuestra propuesta de valor, un servicio de c
 
 En esta aplicación el usuario introduce la dirección donde su vehículo va a estar estacionado, mediante localizador GPS o de forma manual, indicando el tiempo que va a estar parado para que nuestro charger (persona que se encarga de llevar la carga portátil hasta el lugar indicado para realizar la carga) pueda desplazarse al lugar y realizar una carga rápica, sin tener que preocuparse de buscar un sitio donde tener que llevar su coche a cargar y esperar allí mientras lo está cargando.
 
-El video de presentación del proyecto que se presentó en directo desde el canal de YouTube se puede ver [aquí](https://www.youtube.com/watch?v=rdZCj-R7MPM&t=2916s). 
-
 Todo el código del proyecto se puede ver accediendo a este [repositorio](https://github.com/sonimik13/coches_electricos).
