@@ -14,7 +14,7 @@ Según un estudio realizado por el club de automovilistas RACE del mercado de ve
 
 En marzo de este año se han vendido un total de 2.025 unidades, lo que es un 174% más que el año pasado.
 
-Hemos realizado una pequeña encuesta de mercado y se han obtenido los siguientes resultados:
+Tras realizar una pequeña encuesta de mercado se han obtenido los siguientes resultados:
 
 * El 62,2% de las personas que han realizado la encuesta utilizan todos los días el vehículo
 * El 65% de los encuestados utilizan el vehículo para ir al trabajo o realizar trayectos cortos
