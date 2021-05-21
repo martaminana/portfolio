@@ -12,7 +12,7 @@ share: false
 ads: false
 ---
 
-Soy Licenciada en Ciencias Químicas (Especialidad Química Fundamental Analítica) por la U.P.V. / E.H.U., aunque mi trayectoria profesional de casi 20 años, la he desarrollado en empresas de Consultoría TI trabajando como Analista Programador COBOL/SQL/JCL.
+Soy Licenciada en Ciencias Químicas (Especialidad Química Fundamental Analítica) por la U.P.V. / E.H.U., aunque mi trayectoria profesional de casi 20 años, la he desarrollado en empresas de Consultoría TI trabajando como Analista Programador COBOL/JCL.
 
 Tengo amplia experiencia en el trato diario con clientes, habilidades comunicativas, gestionando equipos de personas e incluso liderando y estando al frente de un ANS durante 6 años realizando un soporte de 24x7, solucionando las cancelaciones de procesos y mejorando la calidad de los mismos. 
 
