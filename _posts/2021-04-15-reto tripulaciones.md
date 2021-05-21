@@ -18,7 +18,7 @@ Tras realizar una pequeña encuesta de mercado se han obtenido los siguientes re
 
 * El 62,2% de las personas que han realizado la encuesta utilizan todos los días el vehículo
 * El 65% de los encuestados utilizan el vehículo para ir al trabajo o realizar trayectos cortos
-* El 73% de los encuestados cambiarían a un coche eléctrico (El 45,5% a un enchufable y el 27,5% a uno no enchufable)
+* El 73% de los encuestados cambiarían a un coche eléctrico (El 45,5% a un coche eléctrico enchufable y el 27,5% a un coche eléctrico no enchufable)
 
 Con respecto a las ventajas que observan las personas encuestadas cabe nombrar las siguientes: menor contaminación, acceso a núcleos urbanos y ahorro en la recarga. Como desventajas veían: poca autonomía, pocos puntos de recarga y tiempo de recarga alto. 
 
