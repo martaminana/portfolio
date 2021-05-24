@@ -12,13 +12,13 @@ share: false
 ads: false
 ---
 
-Soy Licenciada en Ciencias Químicas (Especialidad Química Fundamental Analítica) por la U.P.V. / E.H.U., aunque mi trayectoria profesional de casi 20 años, la he desarrollado en empresas de Consultoría TI trabajando como Analista Programador COBOL/SQL/JCL.
+Licenciada en Ciencias Químicas (Especialidad Química Fundamental Analítica) por la U.P.V. / E.H.U., con un background tecnológico de más de 19 años como Analista Programador COBOL en el sector de la consultoría TI.
 
-Tengo amplia experiencia en el trato diario con clientes, habilidades comunicativas y gestionando equipos de personas e incluso liderando al frente un ANS durante 6 años realizando un soporte de 24x7, solucionando las cancelaciones de procesos y mejorando la calidad de los mismos. 
+Acostumbrada al trato diario con clientes, gestionando equipos de personas e incluso liderando al frente un ANS durante 6 años realizando un soporte 24x7, solucionando las cancelaciones de procesos y mejorando la calidad de los mismos.
 
 Actualmente he decidido dar un giro en mi trayectoria profesional aprovechando que poseo una mente científica, analítica, creativa y curiosa la cual se complementa con mi dilatada experiencia analizando y tratando cantidades ingentes de datos por lo que me he formado en el campo de Data Science, campo que me apasiona.
 
-Los retos, aprender, trabajar en equipo y la adaptabilidad son otras cualidades que me definen.
+Los retos, aprender, la adaptabilidad y trabajar en equipo aportando energía, vitalidad y buen clima laboral son otras cualidades que me definen.
 
 Y en mis ratos libres, las actividades que me apasionan son el trail, el trekking, el rafting, la fotografía, la música y bailar. 
 
