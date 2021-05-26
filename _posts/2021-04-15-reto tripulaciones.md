@@ -5,7 +5,7 @@ categories: portfolio
 excerpt: "Proyecto multidisciplinar UX/UI, Full Stack, Data Science y Ciberseguridad sobre coches eléctricos"
 share: false
 image:
-  teaser: kaiku-400x250.jpg
+  teaser: kaiku2-400x250.jpg
 ---
 
 Proyecto grupal en el que se ha desarrollado un producto digital para coches eléctricos en relación con la autonomía y puntos de carga.
