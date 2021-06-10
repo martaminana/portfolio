@@ -12,7 +12,7 @@ share: false
 ads: false
 ---
 
-Licenciada en Ciencias Químicas (Especialidad Química Fundamental Analítica) por la U.P.V. / E.H.U., con un background tecnológico de 20 años como Analista Programador COBOL en el sector de la consultoría TI.
+Licenciada en Ciencias Químicas (Especialidad Química Fundamental Analítica) por la U.P.V. / E.H.U., con un background tecnológico de más de 18 años como Analista Programador COBOL en el sector de la consultoría TI.
 
 Acostumbrada al trato diario con clientes, gestionando equipos de personas e incluso liderando al frente un ANS durante 6 años realizando un soporte 24x7, solucionando las cancelaciones de procesos y mejorando la calidad de los mismos.
 
