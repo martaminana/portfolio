@@ -22,4 +22,6 @@ Y una vez probados varios modelos, el modelo que mejor valores daba en entrenami
 
 Para ver toda la documentación facilitada en la competición se puede acceder a la página web de [kaggle](https://www.kaggle.com/c/give-me-some-credit-20210326).
 
+La competición se realiza junto a [José Serrat Torres](https://www.linkedin.com/in/joseserrat/) y [Marta Miñana](https://www.linkedin.com/in/martaminana1203/).
+
 Todas las gráficas y el código del proyecto se pueden ver accediendo a este [repositorio](https://github.com/sonimik13/give-me-some-credit).
