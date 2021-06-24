@@ -28,4 +28,6 @@ En este caso se ha usado el método Lemmatization que consiste en transformar la
 
 Para ver toda la documentación facilitada en la competición se puede acceder a la página web de [kaggle](https://www.kaggle.com/c/the-bridge-nlp/overview).
 
+La competición se realiza junto a [Cristian España Ces](https://www.linkedin.com/in/cespanac/).
+
 Todo el código del proyecto se puede ver accediendo a este [repositorio](https://github.com/sonimik13/NLP-en-la-red-social-Twitter).
