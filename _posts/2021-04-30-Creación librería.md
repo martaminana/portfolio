@@ -20,7 +20,7 @@ En este proyecto colaboran:
 
 [Alberto Lara Buendía](https://www.linkedin.com/in/alarab/)
 
-[Alberto Guzmán Solera](https://www.linkedin.com/in/arturo-guzm%C3%A1n-solera/)
+[Arturo Guzmán Solera](https://www.linkedin.com/in/arturo-guzm%C3%A1n-solera/)
 
 [Cristian España Ces](https://www.linkedin.com/in/cespanac/)
 
