@@ -16,3 +16,8 @@ Con todas estas funciones, se creó un paquete y se subió a PyPI para que el c�
 
 Todo el código del proyecto se puede ver accediendo a este [repositorio](https://github.com/sonimik13/lib_pythoneers).
 
+En este proyecto colaboran:
+
+[Alberto Lara Buendía](https://www.linkedin.com/in/alarab/)
+
+
