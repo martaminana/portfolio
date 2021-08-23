@@ -5,7 +5,7 @@ categories: portfolio
 excerpt: "Competición grupal de kaggle para predecir si un tweet está hablando de un desastre o no"
 share: false
 image:
-  teaser: twitter-400x250.jpg
+  teaser: Pitufo-400x250.jpg
 ---
 
 A partir de una serie de tweets había que crear un modelo de predicción para clasificar si el tweet estaba hablando de un desastre o no. 
