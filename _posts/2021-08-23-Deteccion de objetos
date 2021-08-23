@@ -2,7 +2,7 @@
 layout: article
 title: "Detección de objetos"
 categories: portfolio
-excerpt: "Competición grupal de kaggle para predecir si un tweet está hablando de un desastre o no"
+excerpt: "Proyecto en consiste en detectar la imagen de un pitufo en un video"
 share: false
 image:
   teaser: Pitufo-400x250.jpg
