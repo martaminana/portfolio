@@ -2,7 +2,7 @@
 layout: article
 title: "Detección de objetos"
 categories: portfolio
-excerpt: "Proyecto en consiste en detectar la imagen de un pitufo en un video"
+excerpt: "Proyecto que consiste en detectar un objeto (en este, caso un pitufo) en un video"
 share: false
 image:
   teaser: Pitufo-400x250.jpg
