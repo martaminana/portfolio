@@ -10,7 +10,7 @@ image:
 
 Proyecto de visión artificial para la detección de un dibujo animado, en este caso, un pitufo en un video.
 
-A partir de varios videos bajados de YouTube, en los que se han generado los frames, e imágenes obtenidas con el navegador Google, se han realizado una serie de rotaciones a todas estas imágenes mediante el uso de la librería de visión artificial OpenCV para aumentar el número de las mismas.
+A partir de varios videos bajados de YouTube, en los que se han generado los frames, e imágenes obtenidas con el buscador de internet Google, se han realizado una serie de rotaciones a todas estas imágenes mediante el uso de la librería de visión artificial OpenCV para aumentar el número de las mismas.
 
 Posteriormente con el algoritmo YOLO(You Only Look Once), se ha realizado el entrenamiento y la detección del pitufo en un video.
 
