@@ -9,3 +9,5 @@ image:
 ---
 
 EN CONSTRUCCION
+
+Todo el código del proyecto se puede ver accediendo a este [repositorio](https://github.com/sonimik13/computer-vision).
