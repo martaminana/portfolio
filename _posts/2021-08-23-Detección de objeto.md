@@ -16,6 +16,6 @@ Posteriormente con el algoritmo YOLO(You Only Look Once), se ha realizado el ent
 
 El resultado se puede ver a continuación:
 
-(https://youtu.be/TT2f3hVATt8)
+[video](https://youtu.be/TT2f3hVATt8)
 
 Todo el código del proyecto se puede ver accediendo a este [repositorio](https://github.com/sonimik13/computer-vision).
