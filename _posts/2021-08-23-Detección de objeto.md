@@ -14,7 +14,7 @@ A partir de varios videos bajados de YouTube, en los que se han generado los fra
 
 Posteriormente con el algoritmo YOLO(You Only Look Once), se ha realizado el entrenamiento y la detección del pitufo en un video.
 
-Cada vez que se detecta un pitufo en el video, se rodea en un recuadro junto con el nombre de su label y la probabilidad de que se trate de un pitufo.
+Cada vez que se detecta un pitufo en el video, se rodea en un recuadro junto con el nombre de su label o etiqueta y la probabilidad de que se trate de un pitufo.
 
 El resultado se puede ver a continuación:
 
