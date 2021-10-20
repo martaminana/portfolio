@@ -5,7 +5,7 @@ description: "A lightweight site starter for Jekyll"
 logo: foto.jpg
 teaser: foto.jpg
 locale: en_US
-url: "https://sonimik13.github.io/portfolio/"
+url: "https://github.com/martaminana/portfolio.git"
 feed:
   path: atom.xml
 
