@@ -2,6 +2,6 @@
 
 Proyectos Personales de Data Science.
 
-**Palabras clave** (Python, Análisis exploratorio de datos, Pandas, Numpy, Matplotlib, Plotly, Seaborn, Folium, Streamlit, Algoritmos, Redes convolucionales, VGG-16, ResNet-50, TensorBoard, Accuracy, Loss, Matriz de confusión, YOLO, Java, Web Scraping, MongoDB, Ciberseguridad)
+**Palabras clave** (Python, Análisis exploratorio de datos, Pandas, Numpy, Matplotlib, Plotly, Seaborn, Folium, Streamlit, Algoritmos, Redes convolucionales, TensorBoard, Accuracy, Loss, Matriz de confusión)
 
-Para ver los proyectos accede a [mi portfolio](https://sonimik13.github.io/portfolio/)
+Para ver los proyectos accede a [mi portfolio](https://martaminana.github.io/portfolio/)
