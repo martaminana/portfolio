@@ -17,14 +17,14 @@ En esta página encontrarás información sobre todos los proyectos en los que t
 
 ### Sobre los proyectos
 
-Los proyectos están escritos en Python (Jupyter Notebook/PyCharm/Google Colab). 
+Los proyectos están escritos en Python (Jupyter Notebook/PyCharm/Google Colab, Power BI). 
 
-Te invito a que explores todos ellos y te sientas completamente libre para preguntarme lo que quieras.
-
-Y entonces... quién sabe...
+Por favor sientete libre de explorar y preguntar todo lo que quieras.
 
 
 
-#### ¿Quizás sea la persona de Data Science que andas buscando?
 
-No lo dudes, contáctame por [Linkedin](https://www.linkedin.com/in/sonia-dosio-revenga-17812245) o por [mail](mailto:sdosiorevenga@gmail.com).
+
+#### ¿Puede que sea la persona idónea de Data Science para tú empresa?
+
+No lo dudes, contáctame por [Linkedin](https://www.linkedin.com/in/martaminana1203/) o por [mail](mailto:mminana@gmail.com).
